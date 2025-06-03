@@ -30,18 +30,18 @@ class AboutArrayAssignment < Neo::Koan
     assert_equal nil, last_name
   end
 
-  def test_parallel_assignments_with_subarrays
+  def test_parallel_assignments_with_subarrays # Here we have a nested array. The first variable gets the first element of the subarray, and the second variable gets the second element.
     first_name, last_name = [["Willie", "Rae"], "Johnson"]
     assert_equal ["Willie", "Rae"], first_name
     assert_equal "Johnson", last_name
   end
 
-  def test_parallel_assignment_with_one_variable
+  def test_parallel_assignment_with_one_variable # When we have only one variable, it gets the first element of the array, and the rest is ignored.
     first_name, = ["John", "Smith"]
     assert_equal "John", first_name
   end
 
-  def test_swapping_with_parallel_assignment
+  def test_swapping_with_parallel_assignment # Common assignments can be used to swap values. Here we swap first_name and last_name.
     first_name = "Roy"
     last_name = "Rob"
     first_name, last_name = last_name, first_name

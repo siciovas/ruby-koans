@@ -1,1 +1,2 @@
-1) about_array_assignment.rb done (2025-06-03)
+1) about_array_assignment.rb (2025-06-03)
+2) about_arrays.rb (2025-06-03)
