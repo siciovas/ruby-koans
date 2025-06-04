@@ -3,3 +3,4 @@
 3) about_asserts.rb (2025-06-03)
 4) about_blocks.rb (2025-06-03)
 5) about_class_methods.rb (2025-06-04)
+6) about_classes.rb (2025-06-04)
