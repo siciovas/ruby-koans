@@ -6,3 +6,4 @@
 6) about_classes.rb (2025-06-04)
 7) about_constants (2025-06-05)
 8) about_control_statements (2025-06-05)
+9) about_dice_project (2025-06-05)
