@@ -10,3 +10,4 @@
 10) about_exceptions (2025-06-12)
 
 12) about_hashes (2025-06-13)
+13) about_inheritance (2025-06-13)
