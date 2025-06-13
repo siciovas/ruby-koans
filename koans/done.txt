@@ -8,3 +8,5 @@
 8) about_control_statements (2025-06-05)
 9) about_dice_project (2025-06-05)
 10) about_exceptions (2025-06-12)
+
+12) about_hashes (2025-06-13)
