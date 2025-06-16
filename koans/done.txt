@@ -12,3 +12,4 @@
 12) about_hashes (2025-06-13)
 13) about_inheritance (2025-06-13)
 14) about_iteration (2025-06-16)
+15) about_keyword_arguments (2025-06-16)
