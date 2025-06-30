@@ -22,3 +22,4 @@
 22) about_pattern_matching (2025-06-30)
 23) about_regular_expressions (2025-06-30)
 24) about_sandwich_code (2025-06-30) -
+25) about_scope (2025-06-30)
