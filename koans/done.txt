@@ -24,3 +24,4 @@
 24) about_sandwich_code (2025-06-30) -
 25) about_scope (2025-06-30)
 26) about_strings (2025-06-30)
+27) about_symbols (2025-06-30)
