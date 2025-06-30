@@ -18,3 +18,5 @@
 18) about_modules (2025-06-25)
 19) about_nil (2025-06-30)
 20) about_objects (2025-06-30)
+21) about_open_classes (2025-06-30)
+22) about_pattern_matching (2025-06-30)
