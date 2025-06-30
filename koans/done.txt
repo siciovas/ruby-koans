@@ -20,3 +20,4 @@
 20) about_objects (2025-06-30)
 21) about_open_classes (2025-06-30)
 22) about_pattern_matching (2025-06-30)
+23) about_regular_expressions (2025-06-30)
