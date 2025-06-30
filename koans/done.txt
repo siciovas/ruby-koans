@@ -16,3 +16,4 @@
 16) about_message_passing (2025-06-16)
 17) about_methods (2025-06-17)
 18) about_modules (2025-06-25)
+19) about_nil (2025-06-30)
